@@ -1,1 +1,1 @@
-# stopkorona
+# stopcovid
